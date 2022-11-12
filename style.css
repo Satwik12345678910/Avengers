@@ -1,0 +1,76 @@
+body
+{
+    background-size: cover;
+    background-position: center; 
+    scroll-behavior: smooth; 
+}
+
+.iron_man_img
+{
+   float: left;
+}
+
+.iron_man
+{
+    float: left;
+    color: orange;
+}
+
+.captan_america_img
+{
+   float: right;
+}
+
+.captan_america
+{
+    float: right;
+    color: orange;
+}
+
+.thor_img
+{
+   float: left;
+   border-image-width: 120;
+   width: 200px;
+}
+
+.thor
+{
+    float: left;
+    color: orange;
+}
+
+.hulk_img
+{
+   float: right;
+   border-image-width: 120;
+   width: 280px;
+}
+
+.hulk
+{
+    float: right;
+    color: orange;
+}
+
+.hawkeye_img
+{
+   float: left;
+}
+
+.hawkeye
+{
+    float: left;
+    color: orange;
+}
+
+.black_widow_img
+{
+   float: right;
+}
+
+.black_widow
+{
+    float: right;
+    color: orange;
+}
